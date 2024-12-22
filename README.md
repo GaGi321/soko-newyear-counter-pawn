@@ -19,7 +19,7 @@ Requried includes:<br>
 If you want to test the system, adjust here to your liking, recompile and run!  
 _Don't forget to revert it back to how it was, otherwise it won't count down the last 10 seconds until the new year!_
 ```
-stock IsCountdownTime(month, day, hour, minute, second)\ 
+stock IsCountdownTime(month, day, hour, minute, second)
 {   
     // Check if it's countdown time
     return (month == 12 && day == 31 && hour == 23 && minute == 59 && second >= 50);
