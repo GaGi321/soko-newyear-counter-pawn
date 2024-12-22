@@ -11,5 +11,10 @@ System language and audio: **Serbian**
 
 YoutTube presentation, [click here](https://youtu.be/khSTsYd6hCs).
 
+Requried includes:<br>
+- a_samp
+- foreach
+- timerfix (Unsupported latest v1.1.2 by KashCherry)
+
 Developed by Dragan Avdic (Dragi)<br>
 Discord: @gangulax
